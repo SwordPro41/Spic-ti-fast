@@ -1,4 +1,4 @@
-# Spicetify to Spotifast Colors
+# Spic-ti-fast
 
 Convert a Spicetify theme's `color.ini` color scheme into a Spotifast custom color palette (`.json`).
 
@@ -48,3 +48,6 @@ Spicetify themes can include CSS that changes Spotify's layout, JavaScript, and 
 ## Credit
 
 Code implementation: OpenAI Codex. Repository owner and publisher: SwordPro41.
+
+NOTE
+hi its me swordpro i literally have no idea what any of this means i just kinda told chatgpt to post the repository but the command should work, if it doesnt then email me about or just ask your ai or smth idk
